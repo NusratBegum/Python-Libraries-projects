@@ -19,7 +19,6 @@ Create a NumPy array that represents this data. Each element should be a number 
 
 7.Get the number of ingredients for a double batch of cupcakes by using aggregate function on cupcakes. Save your new variable to double_batch.
 
-8.
 """
 
 
